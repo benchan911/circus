@@ -1,3 +1,6 @@
+package circus.stuff;
+import circus.Asset;
+
 public abstract class Equipment {
     protected int purchasePrice;
 
